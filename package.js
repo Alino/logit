@@ -1,8 +1,8 @@
 Package.describe({
    name: 'alino:logit',
    summary: 'A Meteor package which uses winston and logstash to get logs into elasticsearch over tcp',
-   version: '0.0.2',
-   git: 'https://github.com/jonboylailam/logit.git'
+   version: '0.0.3',
+   git: 'https://github.com/Alino/logit'
 });
 
 Package.onUse(function (api) {
